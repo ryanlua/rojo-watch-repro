@@ -1,0 +1,6 @@
+{
+  "name": "works",
+  "tree": {
+    "$path": "wrapper/inner.project.json"
+  }
+}
